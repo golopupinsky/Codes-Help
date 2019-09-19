@@ -1,8 +1,8 @@
 ## Codes
 
-### Codes
+### What is this app made for?
 
-Codes iOS application is designed to help in scanning Barcodes and QR codes of various formats. It also helps in generating QR codes.
+Codes iOS application is designed to help in scanning Barcodes and QR codes of various formats. It also allows to generate QR codes and scan stored images.
 
 ### What are these Bar and QR codes?
 
